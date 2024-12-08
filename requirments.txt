@@ -1,0 +1,7 @@
+pandas
+scanpy
+numpy
+matplotlib
+GEOparse
+scipy
+tqdm
