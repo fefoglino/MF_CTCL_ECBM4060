@@ -1,0 +1,401 @@
+SourceGENES,TargetGENES,Interaction,Edges
+IGLV2.11,IGHV3.64D,1.9999038228532,repression
+IGHA1,IGHV3.64D,1.85370722081736,repression
+IGLV2.11,IGKV1.33,1,activation
+IGHA1,IGKV1.33,0.926880751974512,repression
+TPSAB1,IGHV5.10.1,0.852178042538805,repression
+IGLV2.11,IGHV4.39,0.666649321970314,activation
+IGHA1,IGHV4.39,0.617904778850989,activation
+IGLV2.11,IGHV4.61,0.500008104623138,activation
+IGLV2.11,IGHV4.59,0.499999803080837,repression
+IGKV2D.28,IGKV2D.29,0.495923708606335,repression
+IGKV3.20,IGHV5.10.1,0.465531938761821,activation
+IGHA1,IGHV4.61,0.463434260439603,activation
+IGHA1,IGHV4.59,0.463431682439139,repression
+IGHG2,IGKV2D.29,0.39787545235345,activation
+JCHAIN,IGHV5.10.1,0.380256207341686,repression
+IGLV2.11,IGKV1.9,0.333355151038791,activation
+IGHA1,IGKV1.9,0.308967333551069,activation
+IGKV3.20,IGHA1,0.299058969544392,activation
+IGHA1,IGHG2,0.284955119671872,activation
+IGLV2.11,IGHG3,0.249985588116474,repression
+IGHA1,IGKV2D.28,0.249527514771912,activation
+TPSAB1,IGLV2.11,0.247251386255293,repression
+IGHA1,IGHG3,0.231713796468198,repression
+IGLV2.11,IGHGP,0.199991151730786,repression
+TPSAB1,IGKV3.20,0.199237583885664,repression
+IGHA1,IGHGP,0.185372811560991,repression
+IGHG3,IGHG2,0.165318892139283,activation
+IGHV4.59,IGHG2,0.148787002925354,activation
+IGHV4.61,IGHG2,0.148787002925354,activation
+IGHG2,IGKV2D.28,0.137926713376735,activation
+IGHG2,IGHG2,0.129145492938858,activation
+IGHG3,IGKV2D.28,0.111723623983361,activation
+IGKV2D.28,IGKV2D.28,0.107258634967363,activation
+IGKV2D.28,IGHV3.48,0.101406098859497,activation
+IGHA1,IGKV2D.29,0.100577042091806,repression
+IGHV4.59,IGKV2D.28,0.100551261585024,activation
+IGHV4.61,IGKV2D.28,0.100551261585024,activation
+IGLV2.11,IGKV1D.33,0.100481952532033,activation
+IGKV3.20,IGLV2.11,0.100303048271181,activation
+IGKV1.33,IGHG2,0.0991913352835685,activation
+IGKV2D.28,IGLV2.11,0.0923228497163268,repression
+IGKV3.20,IGKV3.20,0.089569654561161,activation
+IGLV2.11,IGHG2,0.0881845544122406,repression
+IGLV2.11,IGHV3.48,0.0872083477095298,repression
+IGLV2.11,IGKV2D.28,0.0852675740204434,repression
+JCHAIN,IGKV3.20,0.0852665149432986,activation
+TPSAB1,JCHAIN,0.0850493033247641,repression
+IGHG3,IGHA1,0.0789679903075158,repression
+IGKV2D.28,IGHG2,0.0788255923647893,activation
+IGHA1,IGHA1,0.0729509796582159,activation
+IGHV4.59,IGHA1,0.0710711912767637,repression
+IGHV4.61,IGHA1,0.0710711912767637,activation
+IGHG2,IGLV2.11,0.0683640893828467,repression
+TPSAB1,PPBP,0.0675993623262815,repression
+IGKV1.33,IGKV2D.28,0.0670341743900144,repression
+TPSAB1,TPSAB1,0.0663989677891219,activation
+IGKV2D.28,IGKV1D.33,0.0627594763264854,repression
+IGKV1.9,IGHG2,0.0495956676417828,activation
+IGKV1.33,IGHA1,0.0473807941845073,repression
+IGHG2,IGHV3.48,0.0457864575528577,repression
+IGLV2.11,IGKV2D.29,0.0444054336747678,repression
+JCHAIN,TPSAB1,0.0341694559591713,repression
+IGKV1.9,IGKV2D.28,0.0335170871950044,repression
+IGHV4.39,IGHG2,0.0330637784278543,activation
+JCHAIN,JCHAIN,0.0318442761802548,activation
+IGHA1,IGHV3.48,0.0310166855991767,activation
+JCHAIN,PPBP,0.0294786299312717,repression
+IGHG2,IGHA1,0.0280192899776217,activation
+JCHAIN,IGHA1,0.0267236123007215,activation
+IGKV3.20,TPSAB1,0.026281138741778,repression
+IGKV1.9,IGHA1,0.0236903970922507,activation
+IGHV4.39,IGKV2D.28,0.0223447247966678,repression
+IGHGP,IGHG2,0.0165318892139257,activation
+IGLV2.11,IGHA1,0.0160990118488044,activation
+IGHV4.39,IGHA1,0.0157935980614985,activation
+IGKV3.20,PPBP,0.0143174331847413,repression
+IGKV3.20,JCHAIN,0.0132415772716319,activation
+IGHGP,IGKV2D.28,0.0111723623983311,activation
+IGHGP,IGHA1,0.00789679903074632,repression
+IGHA1,IGKV1D.33,0.00583901133173584,repression
+IGHV5.10.1,IGLV2.11,0.00487766893775352,activation
+IGHG2,IGKV1D.33,0.00482219877149525,activation
+IGHV5.10.1,IGHA1,0.00414543942053321,repression
+IGKV2D.28,IGHA1,0.00275429145491587,activation
+IGHV5.10.1,IGHV3.64D,0.00209481308352826,repression
+IGHV5.10.1,IGKV1.33,0.00104740583624534,repression
+IGHV5.10.1,IGHV4.39,0.000698271108595428,repression
+IGHV5.10.1,IGHV4.59,0.000523703362059506,repression
+IGHV5.10.1,IGHV4.61,0.000523703360592973,repression
+IGHV5.10.1,IGKV1.9,0.000349135150509799,activation
+IGHV5.10.1,IGHG3,0.000261851591297443,activation
+IGHV5.10.1,IGHGP,0.000209481226134972,activation
+PPBP,IGHV5.10.1,6.9193704214165e-36,repression
+PPBP,IGKV3.20,2.62036139211933e-36,repression
+PPBP,JCHAIN,2.14186814583992e-36,repression
+PPBP,PPBP,1.36271374319518e-36,activation
+PPBP,TPSAB1,1.17979832343891e-36,repression
+IGKV2D.29,IGKV2D.29,7.7054633346399e-37,activation
+IGKV2D.29,IGKV1D.33,5.85501016798351e-37,repression
+IGKV2D.29,IGHV3.48,5.66253207064684e-37,activation
+IGHV3.48,JCHAIN,5.16613814975677e-37,activation
+IGKV1D.33,JCHAIN,5.11897767216001e-37,activation
+IGKV1D.33,IGKV3.20,2.95211145721193e-37,repression
+IGHV3.48,IGKV3.20,2.88318007264827e-37,activation
+IGHV3.48,PPBP,2.74499170930518e-37,repression
+IGKV1D.33,PPBP,2.69198328319996e-37,repression
+IGKV1D.33,TPSAB1,2.15948274166263e-37,repression
+IGHV3.48,TPSAB1,2.14174840569462e-37,repression
+IGKV1D.33,IGHG2,1.96970027693188e-37,activation
+IGKV2D.29,IGLV2.11,9.71777999714824e-38,repression
+IGHV3.48,IGKV1D.33,1.61780062666569e-38,activation
+IGKV2D.29,PPBP,9.57043681469195e-39,repression
+IGHV3.64D,IGHV5.10.1,8.64898615050107e-50,repression
+IGHV3.64D,IGKV3.20,3.60662933040984e-50,repression
+IGHV3.64D,JCHAIN,3.25765097373059e-50,repression
+IGHV3.64D,PPBP,1.99885559148734e-50,activation
+IGHV3.64D,TPSAB1,1.81985708626438e-50,activation
+IGKV1.9,IGKV1.9,0,no regulation
+IGKV1.9,IGKV3.20,0,no regulation
+IGKV1.9,IGKV1.33,0,no regulation
+IGKV1.9,IGKV1D.33,0,no regulation
+IGKV1.9,IGKV2D.29,0,no regulation
+IGKV1.9,JCHAIN,0,no regulation
+IGKV1.9,PPBP,0,no regulation
+IGKV1.9,IGHGP,0,no regulation
+IGKV1.9,IGHG3,0,no regulation
+IGKV1.9,IGHV3.64D,0,no regulation
+IGKV1.9,IGHV5.10.1,0,no regulation
+IGKV1.9,IGHV4.39,0,no regulation
+IGKV1.9,IGHV3.48,0,no regulation
+IGKV1.9,IGHV4.59,0,no regulation
+IGKV1.9,IGHV4.61,0,no regulation
+IGKV1.9,TPSAB1,0,no regulation
+IGKV1.9,IGLV2.11,0,no regulation
+IGKV3.20,IGKV1.9,0,no regulation
+IGKV3.20,IGKV1.33,0,no regulation
+IGKV3.20,IGKV1D.33,0,no regulation
+IGKV3.20,IGKV2D.29,0,no regulation
+IGKV3.20,IGKV2D.28,0,no regulation
+IGKV3.20,IGHG2,0,no regulation
+IGKV3.20,IGHGP,0,no regulation
+IGKV3.20,IGHG3,0,no regulation
+IGKV3.20,IGHV3.64D,0,no regulation
+IGKV3.20,IGHV4.39,0,no regulation
+IGKV3.20,IGHV3.48,0,no regulation
+IGKV3.20,IGHV4.59,0,no regulation
+IGKV3.20,IGHV4.61,0,no regulation
+IGKV1.33,IGKV1.9,0,no regulation
+IGKV1.33,IGKV3.20,0,no regulation
+IGKV1.33,IGKV1.33,0,no regulation
+IGKV1.33,IGKV1D.33,0,no regulation
+IGKV1.33,IGKV2D.29,0,no regulation
+IGKV1.33,JCHAIN,0,no regulation
+IGKV1.33,PPBP,0,no regulation
+IGKV1.33,IGHGP,0,no regulation
+IGKV1.33,IGHG3,0,no regulation
+IGKV1.33,IGHV3.64D,0,no regulation
+IGKV1.33,IGHV5.10.1,0,no regulation
+IGKV1.33,IGHV4.39,0,no regulation
+IGKV1.33,IGHV3.48,0,no regulation
+IGKV1.33,IGHV4.59,0,no regulation
+IGKV1.33,IGHV4.61,0,no regulation
+IGKV1.33,TPSAB1,0,no regulation
+IGKV1.33,IGLV2.11,0,no regulation
+IGKV1D.33,IGKV1.9,0,no regulation
+IGKV1D.33,IGKV1.33,0,no regulation
+IGKV1D.33,IGKV1D.33,0,no regulation
+IGKV1D.33,IGKV2D.29,0,no regulation
+IGKV1D.33,IGKV2D.28,0,no regulation
+IGKV1D.33,IGHGP,0,no regulation
+IGKV1D.33,IGHA1,0,no regulation
+IGKV1D.33,IGHG3,0,no regulation
+IGKV1D.33,IGHV3.64D,0,no regulation
+IGKV1D.33,IGHV5.10.1,0,no regulation
+IGKV1D.33,IGHV4.39,0,no regulation
+IGKV1D.33,IGHV3.48,0,no regulation
+IGKV1D.33,IGHV4.59,0,no regulation
+IGKV1D.33,IGHV4.61,0,no regulation
+IGKV1D.33,IGLV2.11,0,no regulation
+IGKV2D.29,IGKV1.9,0,no regulation
+IGKV2D.29,IGKV3.20,0,no regulation
+IGKV2D.29,IGKV1.33,0,no regulation
+IGKV2D.29,IGKV2D.28,0,no regulation
+IGKV2D.29,JCHAIN,0,no regulation
+IGKV2D.29,IGHG2,0,no regulation
+IGKV2D.29,IGHGP,0,no regulation
+IGKV2D.29,IGHA1,0,no regulation
+IGKV2D.29,IGHG3,0,no regulation
+IGKV2D.29,IGHV3.64D,0,no regulation
+IGKV2D.29,IGHV5.10.1,0,no regulation
+IGKV2D.29,IGHV4.39,0,no regulation
+IGKV2D.29,IGHV4.59,0,no regulation
+IGKV2D.29,IGHV4.61,0,no regulation
+IGKV2D.29,TPSAB1,0,no regulation
+IGKV2D.28,IGKV1.9,0,no regulation
+IGKV2D.28,IGKV3.20,0,no regulation
+IGKV2D.28,IGKV1.33,0,no regulation
+IGKV2D.28,JCHAIN,0,no regulation
+IGKV2D.28,PPBP,0,no regulation
+IGKV2D.28,IGHGP,0,no regulation
+IGKV2D.28,IGHG3,0,no regulation
+IGKV2D.28,IGHV3.64D,0,no regulation
+IGKV2D.28,IGHV5.10.1,0,no regulation
+IGKV2D.28,IGHV4.39,0,no regulation
+IGKV2D.28,IGHV4.59,0,no regulation
+IGKV2D.28,IGHV4.61,0,no regulation
+IGKV2D.28,TPSAB1,0,no regulation
+JCHAIN,IGKV1.9,0,no regulation
+JCHAIN,IGKV1.33,0,no regulation
+JCHAIN,IGKV1D.33,0,no regulation
+JCHAIN,IGKV2D.29,0,no regulation
+JCHAIN,IGKV2D.28,0,no regulation
+JCHAIN,IGHG2,0,no regulation
+JCHAIN,IGHGP,0,no regulation
+JCHAIN,IGHG3,0,no regulation
+JCHAIN,IGHV3.64D,0,no regulation
+JCHAIN,IGHV4.39,0,no regulation
+JCHAIN,IGHV3.48,0,no regulation
+JCHAIN,IGHV4.59,0,no regulation
+JCHAIN,IGHV4.61,0,no regulation
+JCHAIN,IGLV2.11,0,no regulation
+PPBP,IGKV1.9,0,no regulation
+PPBP,IGKV1.33,0,no regulation
+PPBP,IGKV1D.33,0,no regulation
+PPBP,IGKV2D.29,0,no regulation
+PPBP,IGKV2D.28,0,no regulation
+PPBP,IGHG2,0,no regulation
+PPBP,IGHGP,0,no regulation
+PPBP,IGHA1,0,no regulation
+PPBP,IGHG3,0,no regulation
+PPBP,IGHV3.64D,0,no regulation
+PPBP,IGHV4.39,0,no regulation
+PPBP,IGHV3.48,0,no regulation
+PPBP,IGHV4.59,0,no regulation
+PPBP,IGHV4.61,0,no regulation
+PPBP,IGLV2.11,0,no regulation
+IGHG2,IGKV1.9,0,no regulation
+IGHG2,IGKV3.20,0,no regulation
+IGHG2,IGKV1.33,0,no regulation
+IGHG2,JCHAIN,0,no regulation
+IGHG2,PPBP,0,no regulation
+IGHG2,IGHGP,0,no regulation
+IGHG2,IGHG3,0,no regulation
+IGHG2,IGHV3.64D,0,no regulation
+IGHG2,IGHV5.10.1,0,no regulation
+IGHG2,IGHV4.39,0,no regulation
+IGHG2,IGHV4.59,0,no regulation
+IGHG2,IGHV4.61,0,no regulation
+IGHG2,TPSAB1,0,no regulation
+IGHGP,IGKV1.9,0,no regulation
+IGHGP,IGKV3.20,0,no regulation
+IGHGP,IGKV1.33,0,no regulation
+IGHGP,IGKV1D.33,0,no regulation
+IGHGP,IGKV2D.29,0,no regulation
+IGHGP,JCHAIN,0,no regulation
+IGHGP,PPBP,0,no regulation
+IGHGP,IGHGP,0,no regulation
+IGHGP,IGHG3,0,no regulation
+IGHGP,IGHV3.64D,0,no regulation
+IGHGP,IGHV5.10.1,0,no regulation
+IGHGP,IGHV4.39,0,no regulation
+IGHGP,IGHV3.48,0,no regulation
+IGHGP,IGHV4.59,0,no regulation
+IGHGP,IGHV4.61,0,no regulation
+IGHGP,TPSAB1,0,no regulation
+IGHGP,IGLV2.11,0,no regulation
+IGHA1,IGKV3.20,0,no regulation
+IGHA1,JCHAIN,0,no regulation
+IGHA1,PPBP,0,no regulation
+IGHA1,IGHV5.10.1,0,no regulation
+IGHA1,TPSAB1,0,no regulation
+IGHA1,IGLV2.11,0,no regulation
+IGHG3,IGKV1.9,0,no regulation
+IGHG3,IGKV3.20,0,no regulation
+IGHG3,IGKV1.33,0,no regulation
+IGHG3,IGKV1D.33,0,no regulation
+IGHG3,IGKV2D.29,0,no regulation
+IGHG3,JCHAIN,0,no regulation
+IGHG3,PPBP,0,no regulation
+IGHG3,IGHGP,0,no regulation
+IGHG3,IGHG3,0,no regulation
+IGHG3,IGHV3.64D,0,no regulation
+IGHG3,IGHV5.10.1,0,no regulation
+IGHG3,IGHV4.39,0,no regulation
+IGHG3,IGHV3.48,0,no regulation
+IGHG3,IGHV4.59,0,no regulation
+IGHG3,IGHV4.61,0,no regulation
+IGHG3,TPSAB1,0,no regulation
+IGHG3,IGLV2.11,0,no regulation
+IGHV3.64D,IGKV1.9,0,no regulation
+IGHV3.64D,IGKV1.33,0,no regulation
+IGHV3.64D,IGKV1D.33,0,no regulation
+IGHV3.64D,IGKV2D.29,0,no regulation
+IGHV3.64D,IGKV2D.28,0,no regulation
+IGHV3.64D,IGHG2,0,no regulation
+IGHV3.64D,IGHGP,0,no regulation
+IGHV3.64D,IGHA1,0,no regulation
+IGHV3.64D,IGHG3,0,no regulation
+IGHV3.64D,IGHV3.64D,0,no regulation
+IGHV3.64D,IGHV4.39,0,no regulation
+IGHV3.64D,IGHV3.48,0,no regulation
+IGHV3.64D,IGHV4.59,0,no regulation
+IGHV3.64D,IGHV4.61,0,no regulation
+IGHV3.64D,IGLV2.11,0,no regulation
+IGHV5.10.1,IGKV3.20,0,no regulation
+IGHV5.10.1,IGKV1D.33,0,no regulation
+IGHV5.10.1,IGKV2D.29,0,no regulation
+IGHV5.10.1,IGKV2D.28,0,no regulation
+IGHV5.10.1,JCHAIN,0,no regulation
+IGHV5.10.1,PPBP,0,no regulation
+IGHV5.10.1,IGHG2,0,no regulation
+IGHV5.10.1,IGHV5.10.1,0,no regulation
+IGHV5.10.1,IGHV3.48,0,no regulation
+IGHV5.10.1,TPSAB1,0,no regulation
+IGHV4.39,IGKV1.9,0,no regulation
+IGHV4.39,IGKV3.20,0,no regulation
+IGHV4.39,IGKV1.33,0,no regulation
+IGHV4.39,IGKV1D.33,0,no regulation
+IGHV4.39,IGKV2D.29,0,no regulation
+IGHV4.39,JCHAIN,0,no regulation
+IGHV4.39,PPBP,0,no regulation
+IGHV4.39,IGHGP,0,no regulation
+IGHV4.39,IGHG3,0,no regulation
+IGHV4.39,IGHV3.64D,0,no regulation
+IGHV4.39,IGHV5.10.1,0,no regulation
+IGHV4.39,IGHV4.39,0,no regulation
+IGHV4.39,IGHV3.48,0,no regulation
+IGHV4.39,IGHV4.59,0,no regulation
+IGHV4.39,IGHV4.61,0,no regulation
+IGHV4.39,TPSAB1,0,no regulation
+IGHV4.39,IGLV2.11,0,no regulation
+IGHV3.48,IGKV1.9,0,no regulation
+IGHV3.48,IGKV1.33,0,no regulation
+IGHV3.48,IGKV2D.29,0,no regulation
+IGHV3.48,IGKV2D.28,0,no regulation
+IGHV3.48,IGHG2,0,no regulation
+IGHV3.48,IGHGP,0,no regulation
+IGHV3.48,IGHA1,0,no regulation
+IGHV3.48,IGHG3,0,no regulation
+IGHV3.48,IGHV3.64D,0,no regulation
+IGHV3.48,IGHV5.10.1,0,no regulation
+IGHV3.48,IGHV4.39,0,no regulation
+IGHV3.48,IGHV3.48,0,no regulation
+IGHV3.48,IGHV4.59,0,no regulation
+IGHV3.48,IGHV4.61,0,no regulation
+IGHV3.48,IGLV2.11,0,no regulation
+IGHV4.59,IGKV1.9,0,no regulation
+IGHV4.59,IGKV3.20,0,no regulation
+IGHV4.59,IGKV1.33,0,no regulation
+IGHV4.59,IGKV1D.33,0,no regulation
+IGHV4.59,IGKV2D.29,0,no regulation
+IGHV4.59,JCHAIN,0,no regulation
+IGHV4.59,PPBP,0,no regulation
+IGHV4.59,IGHGP,0,no regulation
+IGHV4.59,IGHG3,0,no regulation
+IGHV4.59,IGHV3.64D,0,no regulation
+IGHV4.59,IGHV5.10.1,0,no regulation
+IGHV4.59,IGHV4.39,0,no regulation
+IGHV4.59,IGHV3.48,0,no regulation
+IGHV4.59,IGHV4.59,0,no regulation
+IGHV4.59,IGHV4.61,0,no regulation
+IGHV4.59,TPSAB1,0,no regulation
+IGHV4.59,IGLV2.11,0,no regulation
+IGHV4.61,IGKV1.9,0,no regulation
+IGHV4.61,IGKV3.20,0,no regulation
+IGHV4.61,IGKV1.33,0,no regulation
+IGHV4.61,IGKV1D.33,0,no regulation
+IGHV4.61,IGKV2D.29,0,no regulation
+IGHV4.61,JCHAIN,0,no regulation
+IGHV4.61,PPBP,0,no regulation
+IGHV4.61,IGHGP,0,no regulation
+IGHV4.61,IGHG3,0,no regulation
+IGHV4.61,IGHV3.64D,0,no regulation
+IGHV4.61,IGHV5.10.1,0,no regulation
+IGHV4.61,IGHV4.39,0,no regulation
+IGHV4.61,IGHV3.48,0,no regulation
+IGHV4.61,IGHV4.59,0,no regulation
+IGHV4.61,IGHV4.61,0,no regulation
+IGHV4.61,TPSAB1,0,no regulation
+IGHV4.61,IGLV2.11,0,no regulation
+TPSAB1,IGKV1.9,0,no regulation
+TPSAB1,IGKV1.33,0,no regulation
+TPSAB1,IGKV1D.33,0,no regulation
+TPSAB1,IGKV2D.29,0,no regulation
+TPSAB1,IGKV2D.28,0,no regulation
+TPSAB1,IGHG2,0,no regulation
+TPSAB1,IGHGP,0,no regulation
+TPSAB1,IGHA1,0,no regulation
+TPSAB1,IGHG3,0,no regulation
+TPSAB1,IGHV3.64D,0,no regulation
+TPSAB1,IGHV4.39,0,no regulation
+TPSAB1,IGHV3.48,0,no regulation
+TPSAB1,IGHV4.59,0,no regulation
+TPSAB1,IGHV4.61,0,no regulation
+IGLV2.11,IGKV3.20,0,no regulation
+IGLV2.11,JCHAIN,0,no regulation
+IGLV2.11,PPBP,0,no regulation
+IGLV2.11,IGHV5.10.1,0,no regulation
+IGLV2.11,TPSAB1,0,no regulation
+IGLV2.11,IGLV2.11,0,no regulation
